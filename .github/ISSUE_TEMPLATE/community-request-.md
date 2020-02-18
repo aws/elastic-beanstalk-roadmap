@@ -1,7 +1,7 @@
 ---
 name: 'Community request '
 about: Suggest an idea for the roadmap! The team will review.
-title: "[request]: describe request here"
+title: "describe request here"
 labels: Proposed
 assignees: ''
 
@@ -10,9 +10,8 @@ assignees: ''
 
 ### Community Note
 
-* Please vote on this issue by adding a 👍 [reaction](https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) to the original issue to help the community and maintainers prioritize this request
-* Please do not leave "+1" or "me too" comments, they generate extra noise for issue followers and do not help prioritize the request
-* If you are interested in working on this issue or have submitted a pull request, please leave a comment
+* Please vote on this issue by adding a 👍 [reaction](https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) to the original issue to help the community and maintainers prioritize this request.
+* Please do not leave "+1" or "me too" comments. They generate extra noise for issue followers and do not help prioritize the request.
 
 <!--- Thank you for keeping this note for the community --->
 
