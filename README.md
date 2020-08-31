@@ -12,6 +12,7 @@ Knowing about our upcoming products and priorities helps our customers plan. Thi
 * [AWS App Mesh](https://github.com/aws/aws-app-mesh-roadmap)
 * [AWS Container services](https://github.com/aws/containers-roadmap)
 * [CloudFormation coverage](https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap)
+* [Amazon EC2 Spot Instances integrations](https://github.com/aws/ec2-spot-instances-integrations-roadmap)
 
 
 ## Security disclosures
